@@ -1,2 +1,2 @@
-# dokslicdn.github.io
+# Dokumen Asli
 Doksli CDN
